@@ -3,5 +3,9 @@
 # Google vision API
 # Video view
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=0v4aMkPNl14)
+![alt text](https://github.com/preetamMahapatra/FaceEyeTracker/blob/master/Screenshot_20190517_185845.jpg)
+
+![alt text](https://github.com/preetamMahapatra/FaceEyeTracker/blob/master/Screenshot_20190517_185854.jpg)
+
+![alt text](https://github.com/preetamMahapatra/FaceEyeTracker/blob/master/Screenshot_20190517_185902.jpg)
 
